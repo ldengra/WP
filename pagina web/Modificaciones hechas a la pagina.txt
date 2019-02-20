@@ -1,0 +1,21 @@
+Los colores principales de la pagina los he puesto usando la pagina de adobe kuler, eligiendo una paleta de colores verde, salian estos colores.
+
+el fondo tiene un background-image: linear-gradient(to botton right); por la parte de fuera, en la parte de dentro es igual pero invirtiendo la direccion.
+
+desde WP he puesto varios widgets, como el calendario, una entrada de texto (la de hola puta me llamo bastardo) y el video de youtube
+
+El menu de navegacion lo he creado tambien con WP, creando 4 menus diferentes, aunque el de blog te lleva a la pagina principal de ldengra´s blog
+
+en la pagina de wp-inicio he insertado una imagen desde WP al igual que el texto.
+
+en la de galeria he insertado varias veces el mismo video para que quede como ejemplo
+
+en contacto he creado un menu de contacto enlazado a una pagina con el codigo en el que esta escrito la solicitud
+
+como logo he puesto un cubo de rubik en la parte izquierda de la pagina
+
+la barra de busqueda he puesto un placeholder "fecundar", pero puede ponerse el nombre que desee.
+
+Dentro del blog he creado varias entradas de ejemplo, con un link que lleva directamente a la noticia/contenido de la entrada, tambien he creado la opcion con un read more desde WP
+
+He arreglado el footer para que no se coma contenido 
